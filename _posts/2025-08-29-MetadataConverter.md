@@ -12,5 +12,6 @@ comments: false
 ---
 
 ## Metadata Converter
-SEMI EDA 표준이 Freeze2 -> Freeze3 으로 변경 됨에 따라 기존 Metadata 를 간편하게 Migration 할 수 있는 Tool 이 필요해져서
+SEMI EDA 표준이 Freeze2 -> Freeze3 으로 변경 됨에 따라 기존 Metadata 를 간편하게 Migration 할 수 있는 Tool 필요.
 Freeze2 xml스키마 기준 xml파일 →Freeze3 ProtoBuf 기준 Json파일로 변환 프로그램 개발.
+
